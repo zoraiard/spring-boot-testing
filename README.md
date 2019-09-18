@@ -1,4 +1,4 @@
-# spring-boot-testing
+# spring-boot-testing - Demo project for Spring Boot
 A simple Spring boot maven project to demonstrate testing Spring Data JPA repositories.
 
 
